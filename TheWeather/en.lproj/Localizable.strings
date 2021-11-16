@@ -1,0 +1,42 @@
+/* 
+  Localized.strings
+  TheWeather
+
+  Created by Matthew Carroll on 12/5/16.
+  Copyright © 2016 Third Cup lc. All rights reserved.
+*/
+
+"direction.north" = "N";
+"direction.north-northeast" = "NNE";
+"direction.northeast" = "NE";
+"direction.east-northeast" = "ENE";
+"direction.east" = "E";
+"direction.east-southeast" = "ESE";
+"direction.southeast" = "SE";
+"direction.south-southeast" = "SSE";
+"direction.south" = "S";
+"direction.south-southwest" = "SSW";
+"direction.southwest" = "SW";
+"direction.west-southwest" = "WSW";
+"direction.west" = "W";
+"direction.west-northwest" = "WNW";
+"direction.northwest" = "NW";
+"direction.north-northwest" = "NNW";
+
+"error.message" = "Sorry, Unable to Fetch the Weather";
+"error.message.currentConditions" = "Sorry, Unable to Fetch the Current Conditions";
+"error.message.5day" = "Sorry, Unable to Fetch the Five Day Forecast";
+
+"error.location.unavailable" = "Unable to Find Current Location";
+"error.location.authorization" = "Location Services have not been Authorized";
+
+
+"humidity" = "Humidity";
+"pressure" = "Pressure";
+"wind" = "Wind";
+
+"pressure.units" = "hPa";
+"speed.units" = "mi/h";
+
+"today" = "Today";
+"tomorrow" = "Tomorrow";
